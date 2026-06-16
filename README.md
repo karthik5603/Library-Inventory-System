@@ -411,5 +411,5 @@ Possible future improvements include:
 ## Authors
 
 - Yasser Bouyaddid
-- Karthik
+- Karthik Reddy Chilkuri
 - Syed Maghboul
